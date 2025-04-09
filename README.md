@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-A mobile application built with React Native that lets users explore and view detailed information about Pokémon. This Pokedex project was created to provide an interactive and enjoyable experience for Pokémon fans by utilizing public APIs to fetch updated data.
+A mobile application built with React Native that lets users explore and view detailed information about Pokémon. This project was developed as part of a university assignment, in collaboration with Gabriella Rezende. We worked together to design and build this app, aiming to create an interactive and informative experience for Pokémon fans using public APIs to fetch real-time data.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
